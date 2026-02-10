@@ -220,6 +220,7 @@ img {
     100% { transform: translateY(0) scale(1); letter-spacing: 2px; }
 }
 
+/* עיצוב כותרת ראשית - גודל גופן */
 .hero-content h1 {
     font-family: 'Secular One', sans-serif;
     font-size: 2.8em;
@@ -235,6 +236,7 @@ img {
     50%      { transform: translateY(-6px) rotate(0.5deg); }
 }
 
+/* עיצוב טקסט פסקה */
 .hero-content p {
     font-size: 1.2em;
     margin-bottom: 22px;
